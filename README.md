@@ -1,0 +1,2 @@
+# Classification-Model-Evaluation-Logistic-Regression-and-Decision-Tree
+The code employs scikit-learn's logistic regression and decision tree algorithms to analyze biomechanical data. It evaluates model performance under diverse hyperparameter settings, including regularization coefficients and epochs, recording accuracy scores. This analysis aids informed decision-making in biomedical applications.
